@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mi Pagina</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  </head>
+  <body class="p-3">
+  <!-- v -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Página 12</a>
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="Actividad-1/index.html">Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/economia">Economía</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/sociedad">Sociedad</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/suplementos/cultura-y-espectaculos/23-03-2020">Cultura y Espectáculo</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/el-mundo">El Mundo</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="mt-3 p-0">
+  <h1>24 de marzo: la historia de una foto emblemática de la represión</h1>
+</div>
+
+<div class="mt-2 mb-3">
+  <em>Hoy es juez laboral y miembro de la Cámara Federal de San Justo, pero se identifica como "el pibe de la foto". Fue cuando la dictadura reprimió la masiva marcha por “Pan, trabajo y retorno de la democracia”. En la icónica imagen del fotógrafo Pablo Lasansky, un joven Segura aparece de rodillas, apuntado por un policía.</em>
+</div>
+
+<div class="mt-2 mb-1">
+  <strong>Por Adrian Figueroa Diaz</strong>
+</div>
+
+<img src="https://clara-reyna.github.io/Actividad-1/milicos_0.jpg" alt="imagen de...">
+
+<p><span>Imagen: Pablo Lasansky</span></p>
+
+<div class="m-0 p-0">
+  <p><span>La foto es una de las más icónicas de lo que fue la represión de Estado: un policía apuntándole con su ithaca a un joven de rodillas y manos en el suelo, que lo mira. La imagen ilustró diarios internacionales, recordatorios, libros de historia y está en una de las paredes de la ex ESMA. También está debajo del vidrio del escritorio de Alejandro Segura, su protagonista, aquel manifestante que mira a su captor y que hoy es juez laboral y miembro de la Cámara Federal de San Justo.</span></p>
+  <p><span>“Puedo contar lo que fue mi vida durante la dictadura, lo que hice y con quiénes. Podrán creerme o no. Pero esa foto es el testimonio de mi resistencia”, define el magistrado en diálogo con Página/12.</span></p>
+</div>
+
+<div class="mt-3 mb-3">
+  <h2>La marcha que desafió a la dictadura</h2>
+  <p><span>La imagen retrata un tramo lo que fue la histórica movilización del 30 de marzo de 1982 por “Pan, trabajo y retorno de la democracia” organizada por la CGT Brasil, liderada Saúl Ubaldini. Esa central obrera se contraponía a la contemplativa CGT Azopardo, de Jorge Triaca, padre del ex ministro de Trabajo del gobierno macrista.</span></p>
+  <p><span>“Jamás la dictadura esperó una movilización de ese calibre. Fue la primera en que el pueblo recuperó las calles y partir de ese día las ganó”, dice el magistrado. Hubo otras, claro, pero no con la dimensión de esa. "Fue todo inesperado. Hubo mucha gente espontánea. No había columnas, todos iban dispersos hacia Plaza de Mayo", evoca también Pablo Lasansky, reportero gráfico de la agencia Noticias Argentinas y autor de la foto.</span></p>
+</div>
+
+<div class="mt-3 mb-3">
+  <h2>La detención y la foto</h2>
+  <p><span>Por entonces, Segura era delegado dentro de la Unión de Empleados de la Justicia y aquel día se concentró con sus compañeros abogados del fuero del trabajo en la sede Cerrito al 500. De ahí marcharían hacia la plaza. Eran entre 30 o 40 personas en una Buenos Aires sitiada y asediada por las fuerzas de seguridad, con y sin uniforme.</span></p>
+  <p><span>Había que llegar a Casa Rosada como se pudiera. Bajaron por Lavalle hasta Maipú, cruzaron Corrientes, Sarmiento y al llegar a la entonces Cangallo apareció un comando de la ex Guardia de Infantería de la Policía Federal con carros de asalto. “Íbamos cantando ‘se va a acabar/ se va a acabar/ la dictadura militar’”, recuerda.</span></p>
+  <p><span>“Nos tiran gases y no dispersan –narra-. Entonces tomé una pésima decisión. Noté que venía un colectivo de la línea 111. Era abogado, tenía corbata y pensé: ‘Nadie se va a dar cuenta’. Subí. Me senté y el policía que aparece en la foto paró el colectivo y me bajó junto con otros tres, me redujo y puso de rodillas.” Fue ahí cuando Lasansky obturó una y otra vez.</span></p>
+  <p><span>“Se me presentó esa situación, hice toda la secuencia de cuando lo detienen y me fui. Teníamos una forma de trabajar que era no movernos solos, hacer las fotos e irnos, porque si los milicos te veían mucho tiempo parado mirándolos, te convertías en el blanco”, recuerda Pablo, que por entonces tenía 22 años.</span></p>
+  <p><span>Luego, al llegar a la agencia la edición fue bastante rápida: “Por la simetría y composición del momento fue muy fácil de seleccionar. Es una foto muy poderosa”, definió.</span></p>
+  <p><span>Segura fue detenido. Lo subieron a un patrullero y desde ahí gritó su nombre para que quien lo escuchase pudiera informar quién era el que se llevaban. “Cuando me metieron al celular me di cuenta de que no sería una detención clandestina”, aclara. Eso lo tranquilizó. Llegó a la comisaría de Lavalle y San Martín. “Y ahí, lo que pasó fue casi increíble. Entré, me arreglé el saco, saqué la credencial de abogado y les dije: ‘Ustedes me han traído equivocados’. Y me largaron. Tan increíble como gracioso”, reflexiona.</span></p>
+  <p><span>En otro punto de la ciudad, Lasansky seguía obturando y esquivando la represión. “Me pasó algo gracioso: en un momento nos corren y yo termino con otro tipo escondido debajo de la mesa de un bar. Ese tipo era Carlos Menem”, evoca.</span></p>
+  <p><span>En tanto, Segura volvía a su casa en Villa Mitre. Saludó a su padre y a su madre sin contarles nada. Al rato llegó un familiar al que alguien que había escuchado aquel grito desde el patrullero le avisó sobre la detención de Alejandro. “Como no teníamos teléfono, fue a avisárselo a mi mamá. Pero cuando me vio, hasta le dio bronca verme”, sonríe.</span></p>
+  <p><span>A la foto la conoció dos días después de la marcha de la CGT Brasil y uno antes del inicio de la Guerra de Malvinas. Había sido publicada en un suplemento de la revista La Semana. Cuando la vio, miró la esquina en perspectiva y se dio cuenta de algo: “Había un tipo parado en Maipú y Sarmiento con un pañuelo atado al brazo, como brazalete. Ese tipo me marcó. Si no, no se explica cómo el policía me identificó arriba del colectivo”.</span></p>
+</div>
+
+<div class="mt-3 mb-3">
+  <h2>La historia de Alejandro Segura</h2>
+  <p><span>Segura inició su militancia muy temprano. Desde principios de la década del ’70 militó en la JP, en una Unidad Básica de Villa Luzuriaga, de La Matanza. Mientras lo hacía, fue empleado en la justicia laboral y en el ‘79 ingresó la Asamblea Permanente por los Derechos Humanos (APDH), fue presidente del consejo de ese organismo en San Fernando y luego lo integró a nivel nacional. Se recibió de abogado en 1981 y tuvo un largo derrotero hasta llegar a ser juez.</span></p>
+  <p><span>“La injusticia me rebela”, dice. Fue el primer juez federal que frenó los impuestazos de Mauricio Macri. Lo hizo como subrogante del Juzgado Federal de Zapala, cuando en 2016 dictó una cautelar que suspendió un aumento al gas en Neuquén. Al año siguiente pidió públicamente la aparición con vida de Santiago Maldonado, y puso una foto del artesano en su oficina del Juzgado Nacional del Trabajo N° 41.</span></p>
+</div>
+
+<div class="mt-1 p-0">
+  <img src="https://clara-reyna.github.io/Actividad-1/segura.jpg" alt="imagen de...">
+</div>
+
+<p><span>En la actualidad integra la Cámara Federal de San Justo y es profesor universitario. Sus fallos son escritos con lenguaje inclusivo, lo decidió tras participar de los cursos bajo la Ley Micaela y porque “la Justicia es un buen comienzo para sepultar al patriarcado”. “Me considero un juez del conurbano manifiestamente con mirada en los sectores desvetajados de la sociedad”, se define.</span></p>
+
+<p><span>De su oscuro partenaire en aquella icónica imagen nunca supo nada. Volvió a cruzarlo al poco tiempo, cuando fue con su padre a ver a San Lorenzo a la cancha de Vélez: “Lo miré pero no le dije absolutamente nada. Era un muchacho como yo. Ahora debe estar en algún lugar.”</span></p>
+
+<div class="mt-3 mb-3">
+  <h2>El pibe de la foto</h2>
+  <p><span>Con el tiempo, un amigo de Segura vio la fotografía e interpretó lo que podría ser un simbolismo de la represión ilegal: “Qué increíble que la sombra del milico te pegue de lleno”. Hoy, a los 62 años, el magistrado se identifica como “el pibe de la foto”.</span></p>
+  <p><span>Hasta esta charla con Página/12, Lasansky no sabía quién era el protagonista de su foto que recorrió el mundo, llegó a publicarse en New York Times y ganó el premio Interpress, otorgado en la ex Unión Soviética. “Es una imagen que ya tiene vida propia, es un símbolo. Ninguna otra que hice tuvo esa permanencia ni trascendencia. Es fuerte por su significado, es la representación de algo mucho más profundo. No muestra a un grupo de tareas ni una picana ni una sala de torturas. Pero sintetiza lo que fue ese tiempo, lo cual cumple con el objetivo de lo que es el fotoperiodismo.”</span></p>
+  <p><span>Segura guarda esa imagen en su despacho y en la biblioteca de su casa. Confiesa que cuando la ve siente “mucho orgullo” a nivel personal. Interpreta también que, a nivel colectivo, esa imagen “representa el fin de una época”. “Creían que podían hacer lo que querían –reflexiona-. Pero aquella movilización de la CGT y que yo esté ahí mirando al policía desde el piso, fueron como un despertar. Se tenía que acabar esa prepotencia. Y la historia nos dio la razón.”</span></p>
+</div>
+
+
+  <!-- ^ -->
+  </body>
+</html>
