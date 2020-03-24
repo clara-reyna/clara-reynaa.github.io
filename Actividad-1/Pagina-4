@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Mi Pagina</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  </head>
+  <body class="p-3">
+  <!-- v -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Página 12</a>
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="Actividad-1/index.html">Inicio</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/economia">Economía</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/sociedad">Sociedad</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/suplementos/cultura-y-espectaculos/23-03-2020">Cultura y Espectáculo</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.pagina12.com.ar/secciones/el-mundo">El Mundo</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="mt-3 p-0">
+  <h1>Quiénes y cuándo cobran los 10 mil pesos anunciados por el Gobierno</h1>
+</div>
+
+<div class="mt-2 mb-3">
+  <em>El Gobierno oficializó las medidas de ayuda para trabajadores informales y pequeños monotributistas como parte de las medidas implementadas para paliar el impacto económico del aislamiento obligatorio dispuesto para contener la propagación del coronavirus.</em>
+</div>
+
+<img src="https://clara-reyna.github.io/Actividad-1/24-03-2020-4329e244be791b16ca75f37ed8e50fed.jpg" alt="imagen de...">
+
+<p><span>A través de un decreto publicado este martes en el Boletín Oficial, el Poder Ejecutivo dejó oficializados los anuncios que realizaron ayer los ministro de Economía, Martín Guzmán, y de Trabajo, Claudio Moroni, durante una conferencia de prensa realizada en la Quinta de Olivos.</span></p>
+
+<div class="mt-3 mb-3">
+  <h2>Quiénes cobran el beneficio</h2>
+</div>
+
+<h5>El Ingreso Familiar de Emergencia alcanza a: </h5>
+
+<ul>
+  <li>
+    Trabajadores informales
+  </li>
+  <li>
+    Monotributistas inscriptos en las categorías A (ingreso promedio de $17.400 por mes) y B (ingreso promedio de $26.100 por mes)
+  </li>
+  <li>
+    Monotributistas sociales
+  </li>
+  <li>
+    Empleados domésticos
+  </li>
+</ul>
+
+<div class="mt-4 p-0">
+  <h5>Para recibir el beneficio, se debe cumplir con los siguientes requisitos:</h5>
+  <ul>
+    <li>
+      Ser argentino o argentina nativo o naturalizado y residente con una residencia legal en el país no inferior a dos años
+    </li>
+    <li>
+      Tener entre 18 y 65 años de edad
+    </li>
+    <li>
+      No percibir el solicitante o algún miembro de su grupo familiar otro tipo de ingresos.
+    </li>
+  </ul>
+</div>
+
+<div class="mt-4 p-0">
+  <h5>Están exceptuados del cobro quienes perciban dentro de su grupo familiar ingresos provenientes de: </h5>
+  <ul>
+    <li>
+      Un trabajo en relación de dependencia público o privado
+    </li>
+    <li>
+      Ser monotributista de categoría “C” o superior o del régimen de autónomos
+    </li>
+    <li>
+      Una prestación de desempleo
+    </li>
+    <li>
+      Jubilaciones, pensiones o retiros contributivos o no contributivos nacionales, provinciales, municipales o de la Ciudad Autónoma de Buenos Aires (CABA). 
+    </li>
+    <li>
+      Planes sociales, salario social complementario, Hacemos Futuro, Potenciar Trabajo u otros programas sociales nacionales, provinciales o municipales, a excepción de los de la AUH o Embarazo.
+    </li>
+  </ul>
+</div>
+
+<div class="mt-3 p-0">
+  <h2>Cómo se accede al Ingreso Familiar de Emergencia</h2>
+</div>
+
+<p>El ingreso deberá ser solicitado ante la Anses vía web "conforme el procedimiento que determine la reglamentación" que todavía está pendiente. Se aclara que "los datos consignados en la solicitud tendrán carácter de Declaración Jurada por parte del solicitante".</p>
+
+<p><span>Anses realizará evaluaciones socioeconómicas y patrimoniales sobre la base de criterios objetivos que fije la reglamentación, con el fin de corroborar la situación de real necesidad del individuo y de su grupo familiar.</span></p>
+
+<div class="mt-3 p-0">
+  <h2>Cuándo y cómo se cobra</h2>
+</div>
+
+<p>El decreto señala que el beneficio de 10 mil pesos "se otorgará por única vez en el mes de abril, pudiendo ser prorrogado por el Poder Ejecutivo hasta el momento en que considere que la situación de emergencia sanitaria que da origen al mismo ha sido contenida". Si quien solicita el pago tiene una cuenta bancaria a su nombre, podrá cargar los datos para la transferencia. Si no, se les indicará dónde y cuándo percibirán el haber.</p>
+
+<div class="mt-3 p-0">
+  <h2>Bono para jubilados, pensionados y AUH</h2>
+</div>
+
+<p>En el Boletín oficial se publicó también el Decreto 309/2020, se otorga un subsidio extraordinario por un monto máximo de 3000 pesos que se abonará por única vez en abril a los beneficiarios de las prestaciones previsionales del Sistema Integrado Previsional Argentino (SIPA), a los de la Pensión Universal para el Adulto Mayor y los que reciben pensiones no contributivas por vejez, invalidez, madres de siete hijos o hijas o más, y demás pensiones graciables cuyo pago se encuentra a cargo de la Anses.  Asimismo, se dispone que, en materia de prestaciones previsionales a las que refiere el decreto, el subsidio extraordinario será abonado a quienes perciban un único beneficio y este se encuentre en curso de pago en el mismo mensual en que se liquidará dicho subsidio.</p>
+
+
+  <!-- ^ -->
+  </body>
+</html>
