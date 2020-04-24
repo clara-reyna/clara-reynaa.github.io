@@ -1,4 +1,4 @@
-html,
+html,body{height:100%;}
 body {
   background-image: url("https://i.imgur.com/syW9nog.png");
   background-repeat: no-repeat;
