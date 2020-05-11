@@ -1,0 +1,50 @@
+html, body {height: 100%;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(56, 56, 56);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color:whitesmoke;
+    color:darkgrey;
+}
+.active {
+    background-color: black;
+}
+.techi {
+  float: left;
+}
+h3{
+  position: absolute; top: 70px; left: 30px;
+}
+ #search{
+   width: 200px;
+   border-radius: 10px; 
+   background-color:rgba(255, 255, 255, 0.6);
+   margin-top: 100;  
+ }
+ .container-1{
+   float: right; 
+ }
+ .table-light:hover>th {
+   background-color:#eeeef0;
+   height: 500;
+   width: 250;
+   }
