@@ -40,9 +40,6 @@ h3{
  }
  .container-1{
    float: right; 
- }
-.table {
-margin-top: 270;
 }
  .table-light:hover>th {
    background-color:#eeeef0;    
