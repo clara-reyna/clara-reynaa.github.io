@@ -41,9 +41,9 @@ h3{
  .container-1{
    float: right; 
  }
+.table {
+margin-top: 170;
+}
  .table-light:hover>th {
-   background-color:#eeeef0;
-   margin-top: 160;    
-   height: 500;
-   width: 250;
+   background-color:#eeeef0;    
    }
