@@ -28,11 +28,9 @@ li a:hover {
 .active {
     background-color: black;
 }
-.techi {
-  float: left;
-}
+
 h3{
-  position: absolute; top: 70px; left: 30px;
+  position: absolute; top: 120px; left: 30px;
 }
  #search{
    width: 200px;
