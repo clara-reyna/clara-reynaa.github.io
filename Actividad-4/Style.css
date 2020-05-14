@@ -1,46 +1,60 @@
 html, body {height: 100%;}
+.techi { 
+    background: linear-gradient( tomato 25%, cyan 50%, lightgreen 100%);
+}
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: rgb(56, 56, 56);
-    position: fixed;
-    top: 0;
-    width: 100%;
+    position: absolute;
+    top: 0%;
+    left:0%;
+    right: 0%;
 }
 
-li {
-    float: left;
+ li {
+ float: left;
 }
 
 li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
 }
 
 li a:hover {
     background-color:whitesmoke;
-    color:darkgrey;
-}
-.active {
-    background-color: black;
+    color:rgb(7, 5, 5);
 }
 
-h3{
-  position: absolute; top: 120px; left: 30px;
+.active {
+    background-color: rgb(46, 46, 46);
 }
- #search{
+
+ h3 {
+  position: absolute;
+  top: 60;
+  left: 30;
+}
+
+#search{
    width: 200px;
    border-radius: 10px; 
    background-color:rgba(255, 255, 255, 0.6);
    margin-top: 140;  
  }
+
  .container-1{
    float: right; 
 }
- .table-light:hover>th {
-   background-color:#eeeef0;    
-   }
+
+.table {
+ position: absolute;
+ margin: 30;
+ top: 80;
+ left:30;
+ right: 40; 
+}
