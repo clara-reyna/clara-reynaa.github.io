@@ -36,15 +36,16 @@ li a:hover {
 
  h3 {
   position: absolute;
-  top: 60;
-  left: 30;
+  top: 20%;
+  left: 5%;
 }
 
 #search{
    width: 200px;
    border-radius: 10px; 
    background-color:rgba(255, 255, 255, 0.6);
-   margin-top: 140;  
+   top: 30%;
+   left:50%;
  }
 
  .container-1{
@@ -53,8 +54,6 @@ li a:hover {
 
 .table {
  position: absolute;
- margin: 30;
- top: 80;
- left:30;
- right: 40; 
+ top: 30%;
+ left:5%; 
 }
