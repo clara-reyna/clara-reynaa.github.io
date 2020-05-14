@@ -4,14 +4,9 @@ html, body {height: 100%;}
 }
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: rgb(56, 56, 56);
     position: absolute;
-    top: 0%;
-    left:0%;
-    right: 0%;
 }
 
  li {
@@ -36,16 +31,17 @@ li a:hover {
 
  h3 {
   position: absolute;
-  top: 20%;
-  left: 5%;
+  top: 15%;
+  left: 3%;
 }
 
 #search{
    width: 200px;
    border-radius: 10px; 
    background-color:rgba(255, 255, 255, 0.6);
-   top: 30%;
-   left:50%;
+   position: absolute;
+   top: 25%;
+   left: 60%;  
  }
 
  .container-1{
@@ -54,6 +50,7 @@ li a:hover {
 
 .table {
  position: absolute;
- top: 30%;
- left:5%; 
+ top: 35%;
+ left: 5%;
+ padding: 70px 30px;
 }
