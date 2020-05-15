@@ -30,27 +30,27 @@ li a:hover {
 }
 
  h3 {
+  color: white; 
   position: absolute;
   top: 15%;
-  left: 3%;
+  left: 5%;
 }
 
-#search{
-   width: 200px;
-   border-radius: 10px; 
-   background-color:rgba(255, 255, 255, 0.6);
-   position: absolute;
-   top: 25%;
-   left: 60%;  
- }
+.input-group {
+  width: 100px;
+  color: white;
+  position: absolute;
+  top: 25%;
+  left: 60%;
+}
 
- .container-1{
-   float: right; 
+.input-group-prepend {
+  position: absolute;
+  left: -20%;
 }
 
 .table {
  position: absolute;
  top: 35%;
- left: 5%;
- padding: 70px 30px;
+ margin: 70px 30px;
 }
