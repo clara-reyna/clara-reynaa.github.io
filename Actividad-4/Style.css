@@ -1,16 +1,30 @@
-html,body{height:100%}
+html,body {
+  height:100%
+  }
+
 .nav-expand {
 height: 100%;
 }
+
 .nav-item {
   font-size: large;
   margin-left: 50px; 
   font-family: sans-serif;
   color: white;
 }
-.container-1 {
+
+.container {
   margin-top: 5%;
   margin-left: 10%;
   margin-right: 20%;
   margin-bottom: 10%;
 }
+
+.title{
+font-family: sans-serif;
+}
+
+.form-inline {
+float: right;
+}
+
