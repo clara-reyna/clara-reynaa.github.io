@@ -1,5 +1,6 @@
 html,body {
-  height:100%
+  height:100%;
+  background: linear-gradient( tomato 20%, cyan 60%, lightgreen 100%);
   }
 
 .nav-expand {
@@ -22,6 +23,7 @@ height: 100%;
 
 .title{
 font-family: sans-serif;
+color: white;
 }
 
 .form-inline {
@@ -31,3 +33,4 @@ float: right;
 .table {
   margin-top: 5%;
 }
+
