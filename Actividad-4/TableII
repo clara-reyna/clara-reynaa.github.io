@@ -37,7 +37,7 @@
 		</form>
 		<table class="table table-bordered table-hover table-ligth table-dark">
 			<caption>This is the caption of the table</caption>
-      <thead>
+			<thead>
 				<tr>
 					<th scope="col">#</th>
 					<th scope="col">Column 2</th>
