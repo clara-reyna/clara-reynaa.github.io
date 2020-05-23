@@ -11,17 +11,6 @@
 </head>
 
 <body class="m-0 p-0">
-	<SCRIPT  language=JavaScript> 
-function go(){
-
-if (document.form.password.value=='CONTRASEÑA' && document.form.login.value=='USUARIO'){ 
-        document.form.submit(); 
-    } 
-    else{ 
-         alert("Porfavor ingrese, nombre de usuario y contraseña correctos."); 
-    } 
-} 
-</SCRIPT> 
 	<div class="container p-5">
 		<div class="row justify-content-center align-items-center col justify-content-center align-items-center ">
 			<form>
@@ -51,6 +40,27 @@ if (document.form.password.value=='CONTRASEÑA' && document.form.login.value=='U
 					</div>
 					<button class="btn btn-dark w-100 mt-3">Login</button>
 			</form>
+	function Login(){ 
+var done=0; 
+var usuario=document.login.usuario.value; 
+var password=document.login.password.value; 
+if (usuario=="USUARIO1" && password=="CONTRASEÑA1") { 
+window.location="clara-reyna.github.io/Actividad-4/index.html"; 
+} 
+if (usuario=="USUARIO2" && password=="CONTRASEÑA2") { 
+window.location="clara-reyna.github.io/Actividad-4/index.html"; 
+} 
+if (usuario=="" && password=="") { 
+window.location="https://www.yourhtmlsource.com/stylesheets/introduction.html"; 
+} 
+} 
+        </script> 
+</center> 
+<script language="Javascript"> 
+<!-- Begin 
+document.oncontextmenu = function(){return false} 
+// End --> 
+</script>
 		</div>
 	</div>
 </body>
