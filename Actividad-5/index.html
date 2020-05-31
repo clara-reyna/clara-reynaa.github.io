@@ -14,42 +14,49 @@
 	<div class="container p-5">
 		<div class="row justify-content-center align-items-center col justify-content-center align-items-center ">
 			<form>
-				<div class="group-form p-3"
-					style="background-color:#9879 ; border-radius: 10px; position: absolute; top: 150px; left: 250px; width: 500px; height: 300px;">
-					<h3 align="center">Login Here</h3>
-					<div class="input-group mt-4">
-						<div class="input-group-prepend">
-							<span class="input-group-text">👩</span>
-						</div>
-						<input type="text" name="username" class="form-control" placeholder="Username"></input>
-					</div>
-					<div class="input-group mt-3">
-						<div class="input-group-prepend">
-							<span class="input-group-text">🔒</span>
-						</div>
-						<input type="password" name="password" class="form-control" placeholder="Password"></input>
-					</div>
-					<div>
-						<div class="group-checkbox m-3" aling="center">
-							<input type="checkbox"> Keep me logged in</input>
-						</div>
-					</div>		
-					<button onclick=login() class="btn btn-dark w-100 mt-3">Login</button>
+			  <div class="group-form p-3" style="background-color:#9879 ; border-radius: 10px; position: absolute; top: 150px; left: 250px; width: 500px; height: 300px;">
+				<h3 align="center">Login Here</h3>
+				<div class="input-group mt-4">
+				  <div class="input-group-prepend">
+				    <span class="input-group-text">👩</span>
+				   </div>
+				   <input type="text" name="txtUsername" class="form-control" placeholder="Username"></input>
+				</div>
+				<div class="input-group mt-3">
+				  <div class="input-group-prepend">
+				    <span class="input-group-text">🔒</span>
+				  </div>
+				  <input type="password" name="txtPassword" class="form-control" placeholder="Password"></input>
+				</div>
+				<div>
+				  <div class="group-checkbox m-3" aling="center">
+				   <input type="Checkbox"> Keep me logged in</input>
+				  </div>
+			        </div>		
+				<button onclick=login() class="btn btn-dark w-100 mt-3" type="button">Login</button>
+		          </div>
 			</form>
 		</div>
 	</div>
 
-<script language="JavaScript">
+<script language="javascript" type="text/javascript">
 	
-  function login(){
-  if (document.form.username.value=="Clara" && document.form.password.value=="123456") {
-   alert ("Bien ahí");
-  }
+function login(){ 
+ var username; 
+ var password; 
+ var txtUsername; 
+ var txtPassword; 
+ txtUsername = document.getElementsByName("txtUsername")[0]; 
+ txtPassword = document.getElementsByName("txtPassword")[0]; 
+ username = txtUsername.value; 
+ password = txtPassword.value;  
+
+ if (username=="clara.reyna" && password=="123"){  
+ window.location.replace("https://clara-reyna.github.io/Actividad-4/index.html");
+ } else { 
+ alert(" Wrong user or password"); 
+ }}
     
-   else{ 
-     alert ("Wrong user or password");
-        }    
-  }
 </script>
 </body>
 
