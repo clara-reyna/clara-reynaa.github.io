@@ -33,9 +33,8 @@
 						<div class="group-checkbox m-3" aling="center">
 							<input type="checkbox"> Keep me logged in</input>
 						</div>
-					</div>
-                                       <input onclick=login()> 		
-					<button class="btn btn-dark w-100 mt-3">Login</button></input>
+					</div>		
+					<button onclick=login() class="btn btn-dark w-100 mt-3">Login</button>
 			</form>
 		</div>
 	</div>
@@ -44,11 +43,11 @@
 	
   function login(){
   if (document.form.username.value==="Clara" && document.form.password.value==="123456") {
-   alert ("Login exitoso")
+   document.form.submit();
   }
     
    else{ 
-     alert ("Por favor ingrese su usuario y contraseña")
+     alert ("Por favor ingrese correctamente su usuario y contraseña");
         }    
   }
 </script>
