@@ -1,44 +1,55 @@
 <!doctype html>
-<html>
-  <head>
-        <meta charset="utf-8">
-        <title>Vue: Lista de Tareas</title>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.17/vue.min.js"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
-  </head>
-  <body class="m-3">
-        <div id="todo-app">
-          <input v-model="tituloNuevo" type="text" class="form-control" id="tareaDesc" placeholder="Descripción de tarea">
+<html lang="en">
 
-          <div class="my-2 text-center">
-                <button @click="tareas.push(tituloNuevo); tituloNuevo = '';"
-                                class="btn btn-primary">Crear nueva tarea</button>
-          </div>
+<head>
+	<meta charset="utf-8">
+	<title>Login</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://clara-reyna.github.io/Actividad-3/Archivo.css">
+	<link rel="icon" type="imagen/jpg" href="https://i.imgur.com/eiWuvQJ.png">
+</head>
 
-          <table class="table table-bordered table-striped table-hover">
-                <tbody>
-                  <tr v-for="(tarea, pos) in tareas">
-                        <td>{{pos}}</td>
-                        <td>{{tarea}}</td>
-                        <td class="text-center">
-                          <button @click="$delete(tareas, pos)" class="btn btn-danger btn-sm">X</button>
-                        </td>
-                  </tr>
-                </tbody>
-          </table>
-        </div>
-        <script>
-          new Vue({
-                el: '#todo-app',
-                data: {
-                  tituloNuevo: '',
-                  tareas: [
-                        'Conquistar el mundo',
-                        'Abolir el patriarcado',
-                        'Comprar pan'
-                  ]
-                }
-          })
-        </script>
-  </body>
+<body class="m-0 p-0">
+	<div class="container p-5">
+		<div class="row justify-content-center align-items-center col justify-content-center align-items-center ">
+			<form>
+				<div class="group-form p-3"
+					style="background-color:#9879 ; border-radius: 10px; position: absolute; top: 150px; left: 250px; width: 500px; height: 300px;">
+					<h3 align="center">Login Here</h3>
+					<div class="input-group mt-4">
+						<div class="input-group-prepend">
+							<span class="input-group-text">👩</span>
+						</div>
+						<input type="text" name="username" class="form-control" placeholder="Username"></input>
+					</div>
+					<div class="input-group mt-3">
+						<div class="input-group-prepend">
+							<span class="input-group-text">🔒</span>
+						</div>
+						<input type="password" name="password" class="form-control" placeholder="Password"></input>
+					</div>
+					<div>
+						<div class="group-checkbox m-3" aling="center">
+							<input type="checkbox"> Keep me logged in</input>
+						</div>
+					</div>
+					<button onclick=login() class="btn btn-dark w-100 mt-3">Login</button>
+			</form>
+		</div>
+	</div>
+
+<script>
+  function login() {
+  if (document.form.username.value==="Clara" && document.form.password.value==="123456") {
+   alert ("Login exitoso")
+  }
+    
+   else { 
+     alert ("Por favor ingrese su usuario y contraseña")
+        }    
+  }
+</script>
+</body>
+
 </html>
