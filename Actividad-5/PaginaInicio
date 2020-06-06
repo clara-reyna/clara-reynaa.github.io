@@ -1,1 +1,38 @@
+<!doctype html>
+<html lang="en">
 
+<head>
+	<meta charset="utf-8">
+	<title>Login</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	<link rel="icon" type="imagen/jpg" href="https://i.imgur.com/eiWuvQJ.png">
+  <link rel="stylesheet href="https://clara-reyna.github.io/Actividad-5/style.css">
+</head>
+
+<body>
+	<nav class="navbar navbar-expand navbar-dark bg-dark">
+		<ul class="navbar-nav">
+			<li class="nav-item active"><a class="nav-link" href="www.google.com.ar">Home</a></li>
+			<li class="nav-item"><a class="nav-link" href="www.google.com.ar">Contact</a></li>
+			<li class="nav-item"><a class="nav-link" href="www.google.com.ar">Blog</a></li>
+			<li class="nav-item"><a class="nav-link" href="www.google.com.ar">Client</a></li>
+			<li class="nav-item"><a class="nav-link" href="www.google.com.ar">Test</a></li>
+		</ul>
+	</nav>
+  <h1>Welcome to my Website</h1>
+  <ul class="slider">
+    <li id="slide1">prueba1</li>
+    <li id="slide2">prueba2</li>
+    <li id="slide3">prueba3</li>
+  </ul>
+  <nav>
+  <ul class="menu">
+<li><a href="#slide1">Diapositiva1</a></li>
+<li><a href="#slide2">Diapositiva2</a></li>
+<li><a href="#slide3">Diapositiva3</a></li>
+  </ul>
+  </nav>
+</body>
+
+</html>
