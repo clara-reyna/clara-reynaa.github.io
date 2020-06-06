@@ -9,6 +9,7 @@ li, h1, h3, p{
   margin: 15px;
   padding: 10px;
   min-height: 870;
+  whidth: 270px;
 }
 .card-img-bottom{
   align-self: center;
