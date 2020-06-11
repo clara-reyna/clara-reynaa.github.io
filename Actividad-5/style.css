@@ -8,7 +8,7 @@ li, h1, h3, p{
 .card{
   margin: 15px;
   padding: 10px;
-  min-height: 900;
+  min-height: 970;
   whidth: 270px;
 }
 .card-img-bottom{
