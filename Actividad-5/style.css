@@ -15,6 +15,9 @@ li, h1, h3, p{
   padding: 10px;
   min-height: 850px;
   whidth: 270px;
+  border-width: medium;
+  border-color: #008000; 
+  
 }
 .card-img-bottom{
   align-self: center;
