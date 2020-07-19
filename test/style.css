@@ -93,6 +93,7 @@ dl, ol, ul {
 .sidebar .nav-link.active {
     color: #37a09b;
 }
+<style>
 .sidebar .nav-link {
     font-weight: 500;
     color: #333;
